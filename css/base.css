@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bitter', serif;
+    box-sizing: border-box;
+    background-color: #d7d7d7;
+    color: rgb(48, 48, 48);
+}
+
+li {
+    list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+li,
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.section {
+    background-color: #f6f6f6;
+    margin: 2% auto;
+    width: 95%;
+}
+
+.heading {
+    color: #009494;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px 32px;
+}
